@@ -17,4 +17,4 @@ default = []
 
 [dependencies]
 cfg-if = "1.0"
-taskctx = { path = "../taskctx" }
+taskctx = { git = "https://github.com/Starry-OS/taskctx.git" }
